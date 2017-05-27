@@ -1,0 +1,59 @@
+.header {
+    background: #f5f5f5;
+    width: 880px;
+    height: 55px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+}
+
+.greyheader h4 {
+    text-align: right;
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.greyheader h2 {
+    position: absolute;
+    top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px
+}
+
+.main {
+    background: radial-gradient(#6f5964, #25151a);
+    padding-top: 15px;
+}
+
+.picture {
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 375px;
+}
+
+.about {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 25px;
+    border: 1px solid silver;
+    height: 200px;
+    width: 50%;
+}
+
+.aboutheader {
+    border: 1px solid grey;
+    background: grey;
+}
+
+.aboutbody {
+    border: 1px solid grey;
+    background: #f0e9ef;
+    height: 100%;
+    font-size: 14px;
+    font-size: 2vb;
+    overflow: hidden;
+    text-align: justify;
+}
